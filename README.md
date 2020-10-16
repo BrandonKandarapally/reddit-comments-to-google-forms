@@ -1,8 +1,8 @@
-# reddit-comments-to-google-forms
-For use of contests on https://www.reddit.com/r/ShitPostCrusaders
+# reddit-comment-scraper
+Scrapes a thread for comments and prints them out in the console
 
 # Dependencies
-To quickly install depedencies run:
+To quickly install dependencie srun:
 
 `pip install -r requirements.txt`
 

@@ -26,7 +26,7 @@ def get_entries_from_thread(thread_url, reddit):
 
 if __name__ == "__main__":
     REDDIT_INSTANCE = create_reddit_instance_from_config()
-    URL = 'https://www.reddit.com/r/ShitPostCrusaders/comments/caas0v/thanks_for_200k_subs_mod_applications/'
+    URL = 'https://www.reddit.com/r/aww/comments/bk2gzq/im_babysitting_my_friends_cat_and_did_a/'
     entries = get_entries_from_thread(), REDDIT_INSTANCE)
     for key, val in entries.items():
         print(key + ': ' + val)
