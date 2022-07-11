@@ -2,7 +2,7 @@
 Scrapes a thread for comments and prints them out in the console
 
 # Dependencies
-To quickly install dependencie srun:
+To quickly install dependencie run:
 
 `pip install -r requirements.txt`
 
